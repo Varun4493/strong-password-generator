@@ -34,7 +34,7 @@ Installation
 
 
 
-git clone https://github.com/yourusername/strong-password-generator.git
+git clone https://github.com/Varun4493/strong-password-generator.git
 
 2. Navigate to the project folder:
 
